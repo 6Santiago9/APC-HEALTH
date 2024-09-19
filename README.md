@@ -38,7 +38,7 @@
 <div align="right">
 <h2> <b> Por: Santiago Alejandro Inguilan Aguirre. </b> </h2>
 <a href="santiago.inguilan@udea.edu.co"> ✉ Santiago Alejandro Inguilan Aguirre </a>
-<h2> <b> Por: Darwin Julian Pineada David. </b> </h2>
+<h2> <b> Por: Darwin Julian Pineda David. </b> </h2>
 <a href="darwin.pineda@udea.edu.co"> ✉ Darwin Julian Pineda David </a>
 </div>
 
